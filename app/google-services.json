@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "370044281981",
+    "project_id": "cryptohouseandroid",
+    "storage_bucket": "cryptohouseandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370044281981:android:f2e17b892d0d171d873d14",
+        "android_client_info": {
+          "package_name": "com.bucanante.cryptohouseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370044281981-h4mcqcegsisbrrd7sehdi54s2tmn05g1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bucanante.cryptohouseapp",
+            "certificate_hash": "3a6c3745f70668da7a23c46592ed26751798ef3d"
+          }
+        },
+        {
+          "client_id": "370044281981-jt584mn52g4ccessfjubee8veah83fkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjyVjxJ_jV4-Xli0zkyI4ICR4ByLJUGBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370044281981-jt584mn52g4ccessfjubee8veah83fkc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
